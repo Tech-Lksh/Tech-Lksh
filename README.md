@@ -1,5 +1,11 @@
+# Hi 👋, I'm **Lokesh Pardhi**
+
+### 🚀 A Passionate MERN Stack Developer from India
+
+---
+
 # 💫 About Me:
-## 🚀 About Me<br><br>🔭 **I’m currently working on**  <br>➡️ *MyHealth Copilot* – AI-powered personal health monitoring assistant  <br><br>👯 **I’m looking to collaborate on**  <br>➡️ MERN Stack Projects (Real-world, scalable, production-ready)  <br>https://github.com/Tech-Lksh<br><br>🤝 **I’m looking for help with**  <br>➡️ *Healing Horizons* – Early Cancer Detection Platform  <br><br>🌱 **I’m currently learning**  <br>➡️ Next.js • System Design • Advanced Node.js • DevOps Essentials  <br><br>💬 **Ask me about**  <br>➡️ MERN Stack • Web Development • APIs • Frontend + Backend Architecture  <br><br>⚡ **Fun fact**  <br>➡️ I love playing video games 😄<br>
+## 🚀 About Me<br><br>👯 **I’m looking to collaborate on**  <br>➡️ MERN Stack Projects (Real-world, scalable, production-ready)  <br>https://github.com/Tech-Lksh<br><br>🌱 **I’m currently learning**  <br>➡️ Next.js • System Design • Advanced Node.js • DevOps Essentials  <br><br>💬 **Ask me about**  <br>➡️ MERN Stack • Web Development • APIs • Frontend + Backend Architecture  <br><br>⚡ **Fun fact**  <br>➡️ I love playing video games 😄<br>
 
 
 ## 🌐 Socials:
