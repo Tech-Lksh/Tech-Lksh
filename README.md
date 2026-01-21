@@ -1,6 +1,6 @@
 # Hi 👋, I'm **Lokesh Pardhi**
 
-### 🚀 A Passionate MERN Stack Developer from India
+### 🚀 A Passionate MERN Stack Developer.
 
 ---
 
